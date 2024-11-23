@@ -32,7 +32,7 @@
 
 - Simply **clone the repository**. Only python should be installed in your system.
   ```bash
-  $ git clone https://github.com/htr-tech/Vigenere
+  $ git clone https://github.com/htr-tech/Vigenere-Decoder
   $ cd Vigenere
   $ python vigenere.py
   ```
